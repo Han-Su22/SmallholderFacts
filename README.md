@@ -35,7 +35,9 @@ https://essd.copernicus.org/articles/14/4397/2022/essd-14-4397-2022.html
 
 ## Water resources, water scarcity
 
-
+- A higher portion of smallholders are in water scarce area compared to large-scale farms
+https://essd.copernicus.org/articles/14/4397/2022/essd-14-4397-2022.html
+(Another paper in preparation)
 - 70-80% harvested area of smallholders is in water-scarce regions
 https://essd.copernicus.org/articles/14/4397/2022/essd-14-4397-2022.html
 
