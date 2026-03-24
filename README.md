@@ -3,6 +3,9 @@ Gathering smallholder facts, based on global-focused studies.
 
 Contact: Han Su (h.su@utwente.nl, han_su20@163.com), University of Twente, the Netherlands
 
+## 2015 SOFA report from FAO, providing updated overview on global smallholders
+https://openknowledge.fao.org/items/6dfa0079-e156-47a2-9089-0274119e9cb7
+
 ## Definition (for crop producer)
 
 There is no standard international definition for smallholders. The smallholder definition is taken as context-dependent. Several definitions are popular among international studies. 
